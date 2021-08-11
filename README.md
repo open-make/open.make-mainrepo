@@ -1,20 +1,24 @@
-# Project title
+# Open.make: towards open FAIR hardware
 
 ## Abstract
 
 ## Contributors
 
-- jane doe, jane.doe@example.com, https://orcid.org/XXXX-XXXX-XXXX-XXXX
+- Julien Colomb
+- Robert Mies
+- Moritz Maxeiner 
 
-[Please mention your contributors either by including a contributors list here, or by referring to another file that lists your contributors, see documentation for options and examples.]
+
 
 ## List of experiments
 
+
 ## Direct links (inside or outside this repository)
 
+- grant application repository: https://github.com/open-science-promoters/BUAgrant_OSH
 - todo list: [use issues](/issues)
 - data management plan: [01_project_management/05_data_management_plans](01_project_management/05_data_management_plans)
-- Smartfigure tag: URL
+- Smartfigure tag: openhardware
 
 ## Other information
 
