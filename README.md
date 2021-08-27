@@ -14,6 +14,11 @@ This repository contains all documents about the project administration and idea
 
 ## List of experiments
 
+### WP1
+
+- Observatory studies
+  - Airtrack system development: https://gin.g-node.org/larkumlab/Open-Make-AIRTRACK
+
 
 ## Direct links (inside or outside this repository)
 
