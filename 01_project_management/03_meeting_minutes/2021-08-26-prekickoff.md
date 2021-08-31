@@ -8,7 +8,7 @@ Meeting was mostly in German, minutes are mostly in English. The notes are not e
 - Robert Mies, Wirtschaft engineer, PhD (5 Jahren), want to continue as a postdoc
 - Tim, Bioinformatics FU, had 2 supervisor als bachelor, master und phd (biologist/informatician).  postdoc in California, back to berlin: interest in emerging properties of social interactions: Modell systeme/human social interaction. method: robots. OSH: all robots components are OS in theory, no documentation there. - future: job until 2026, maybe company building
 - Julien, data manager CRC1315. phd 2007 in CH, postdoc in FR, postdoc2 in DE. moved to open science and open data in 2014-2015.
-- Moritz, Berlin born. Informatics at the FU, IT security, went to Tim as master student, now PhD (50% h2020 project), is angry about the current system and fixability of hardware. Work on closed loop hardware. Electrofish (robofish but bigger + electric signals).
+- Moritz, Berlin born. Informatics at the FU, IT security, went to Tim as master student, now PhD (50% h2020 project), is frustrated with the current system and fixability of hardware. Work on closed loop hardware. Electrofish (robofish but bigger + electric signals).
 
 ## Diverse interesting discussions
 
@@ -16,7 +16,7 @@ Meeting was mostly in German, minutes are mostly in English. The notes are not e
   - pdf sent with more info 
   - TIM: previous Phd students: engeneering first, then biology, some are leaving at that point. 
 
-
+-  something where profit for makers is visible/comes fast would be preferable (postdocs are on 2 years contracts)
 - why not OS in Tim lab:  no expertise / no time, need for perfection, personal is temporary. Niche products, difficult to find time.
 - Makers have niche compentencies
 
@@ -72,7 +72,7 @@ Meeting was mostly in German, minutes are mostly in English. The notes are not e
 - Static Website, blog platform (hugo)
 - one public repo + at least one private (data protection)
 - one meeting every two weeks at least (Monday 14h, first sept. 6)
-- We are starting the work, even if the contracts are not signed.
+- We are starting the work, even if the contracts are not signed. (we will try to annonce when people are hired.
 
 ## WP1
 
