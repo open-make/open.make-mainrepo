@@ -2,6 +2,8 @@
 
 ## Abstract
 
+This repository contains all documents about the project administration and ideas we feel compfortable sharing openly. We also use a closed repository for things we feel are more sensitive.
+
 ## Contributors
 
 - Julien Colomb
@@ -15,6 +17,7 @@
 
 ## Direct links (inside or outside this repository)
 
+- rolling minutes/agenda: https://etherpad.hu-berlin.de/?pad=6256%2Ftest1
 - grant application repository: https://github.com/open-science-promoters/BUAgrant_OSH
 - todo list: [use issues](/issues)
 - data management plan: [01_project_management/05_data_management_plans](01_project_management/05_data_management_plans)
