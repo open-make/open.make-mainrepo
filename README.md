@@ -18,7 +18,7 @@ This repository contains all documents about the project administration and idea
 ## Direct links (inside or outside this repository)
 
 - closed access documentation: https://git.imp.fu-berlin.de/openmake/intern-projectmanagment
-- rolling minutes/agenda: https://etherpad.hu-berlin.de/?pad=6256%2Ftest1
+- rolling minutes/agenda: https://etherpad.hu-berlin.de/ep/p/g.b9vQvzly2nMJWI6l$test1
 - grant application repository: https://github.com/open-science-promoters/BUAgrant_OSH
 - todo list: [use issues](/issues)
 - data management plan: [01_project_management/05_data_management_plans](01_project_management/05_data_management_plans)
