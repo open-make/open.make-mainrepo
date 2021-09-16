@@ -1,8 +1,8 @@
 # Open.make: towards open FAIR hardware
 
-## Abstract
+Please visit https://www.openmake.de for further information about the project.
 
-This repository contains all documents about the project administration and ideas we feel compfortable sharing openly. We also use a closed repository for things we feel are more sensitive.
+This repo is an entry door to our documents and documentation, that is were we have our issues. Most public files are in this repository. See the  (Direct links)[#Links] section to find other resources.
 
 ## Contributors
 
@@ -20,7 +20,7 @@ This repository contains all documents about the project administration and idea
   - Airtrack system development: https://gin.g-node.org/larkumlab/Open-Make-AIRTRACK
 
 
-## Direct links (inside or outside this repository)
+## Links
 
 - closed access documentation: https://git.imp.fu-berlin.de/openmake/intern-projectmanagment
 - rolling minutes/agenda: https://etherpad.hu-berlin.de/ep/p/g.b9vQvzly2nMJWI6l$test1
