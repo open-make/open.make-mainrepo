@@ -20,7 +20,7 @@ This repository contains all documents about the project administration and idea
 - closed access documentation: https://git.imp.fu-berlin.de/openmake/intern-projectmanagment
 - rolling minutes/agenda: https://etherpad.hu-berlin.de/ep/p/g.b9vQvzly2nMJWI6l$test1
 - grant application repository: https://github.com/open-science-promoters/BUAgrant_OSH
-- todo list: [use issues](/issues)
+- Our todo list: https://github.com/orgs/open-make/projects/1
 - data management plan: [01_project_management/05_data_management_plans](01_project_management/05_data_management_plans)
 - Smartfigure tag: openhardware
 
