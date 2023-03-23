@@ -1,0 +1,133 @@
+---
+title: An open hardware handbook
+
+format: 
+  html: 
+    toc: true
+    number-sections: true
+---
+
+This file presents a possilbe table of content for a handbook to learn how to make research hardware more open and FAIR.
+The idea is to list the kind of content we would like.
+For each (sub-)chapter, we will then - see if it can be a specific part of the turing way book - see what source can be re-used to write it (turing way book/openmaker doc/ Deflt course doc, other) - write new turing way chapter, or enhance existing ones
+
+We may create a special built of the turing way book, choosing and reorganising these chapters.
+
+versions: 1.
+discussion between JC and SA, complemented during edition by JC
+
+------------------------------------------------------------------------
+
+# Introduction
+
+## What is open (research) hardware
+
+## Purpose of open hardware
+
+## Working open versus publish open
+
+## Hardware development steps
+
+### Ideation and requirements
+
+### Prototypes
+
+### Stable release
+
+### Production ready
+
+# Hardware as a research output
+
+## (Lack of) Recognition
+
+## Publication options
+
+## Harware licenses
+
+## Making hardware citable
+
+## Making hardware discoverable
+
+# Open hardware project setup
+
+## Do not reinvent the wheel
+
+## Community and interested parties
+
+### Contributors
+
+### Users
+
+### Hardware producers
+
+## Working in the open
+
+### Setting your repo for collaborative work
+
+### Making it inclusive per default
+
+### Recognize and encourage contributions
+
+### Think long term (new maintainers)
+
+==========================
+
+# Hardware maker skills
+
+## Safety knowledge
+
+### Electricity
+
+### Other
+
+## Technological skills
+
+### 3D print
+
+### CNC
+
+### PCB
+
+### CAD
+
+## Project and data management
+
+### Data management plan
+
+### version control for hardware
+
+### Using git
+
+### Using issues and PR
+
+## Community building
+
+### Communication and forum
+
+### Inclusivity
+
+### Recognition
+
+### ...
+
+# Hardware documentation
+
+## Content
+
+### User manual
+
+### Test and validataion
+
+### troubleshooting
+
+### maintenance
+
+### repair guide
+
+### End of life/ disposal
+
+## Form
+
+### Website with quarto/read the doc
+
+### Website with gitbuilding
